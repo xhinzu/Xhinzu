@@ -80,7 +80,6 @@ Below is the automated contribution snake. It eats my contributions and turns th
   <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Xhinzu/Xhinzu/output/github-contribution-grid-snake.svg">
 </picture>
 
-*(See instructions below to set this up for your own GitHub profile repository)*
 
 ---
 
