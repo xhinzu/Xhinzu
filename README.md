@@ -6,7 +6,7 @@
 
 ---
 
-### 💫 About Me
+### 🌿 About Me
 
 I am a Computer Science student at **Rajagiri Higher Secondary School** and a digital content creator under the handle **Xhinzu**. I love bridging the gap between software development, hardware tinkering, and gaming. 
 
@@ -70,7 +70,7 @@ When I am not coding or editing, you can find me on Valorant.
 
 ---
 
-### 🐍 GitHub Contribution Snake Game
+### 🐍 Cool Snake >_<
 
 Below is the automated contribution snake. It eats my contributions and turns them into a retro game screen!
 
