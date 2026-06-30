@@ -44,7 +44,7 @@ Whether I'm writing C++ code for my next indie game, repurposing old electronics
 
 ---
 
-### 🖥️ Hardware & Battlestation
+### 🖥️ Hardware
 
 I’m a PC hardware enthusiast who loves DIY electronics and hardware repurposing. 
 
@@ -66,7 +66,7 @@ When I am not coding or editing, you can find me on Valorant.
 
 * **Rank:** **Ascendant 1** 💎
 * **Main Agent:** Jett 🌪️
-* **Playstyle:** Aggressive entry-fragging, space creation, and fast-paced utility usage.
+* **Playstyle:** Aggressive
 
 ---
 
