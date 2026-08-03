@@ -1,5 +1,5 @@
 
-Hi, I'm **xhinzu**. This README is tuned for **get hired** with a GitHub visual system.
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=xhinzu&theme=github-dark&mode=light" />
@@ -7,7 +7,7 @@ Hi, I'm **xhinzu**. This README is tuned for **get hired** with a GitHub visual 
   </picture>
 </p>
 
-> Editing this section in the inspector.
+
 Shapes the short profile story and positioning.
 <p align="center">
   <picture>
@@ -16,7 +16,7 @@ Shapes the short profile story and positioning.
   </picture>
 </p>
 
-Selected stack and skill badges will be generated from the GitHub profile and README strategy.
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=xhinzu&theme=github-dark&mode=light" />
@@ -24,7 +24,7 @@ Selected stack and skill badges will be generated from the GitHub profile and RE
   </picture>
 </p>
 
-GitSkins stat widgets will use the **GitHub** theme.
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=xhinzu&theme=github-dark&mode=light" />
@@ -32,7 +32,7 @@ GitSkins stat widgets will use the **GitHub** theme.
   </picture>
 </p>
 
-Highlights repositories as proof of work.
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=xhinzu&theme=github-dark&mode=light" />
