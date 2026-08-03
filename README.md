@@ -1,4 +1,4 @@
-## Header
+
 Hi, I'm **xhinzu**. This README is tuned for **get hired** with a GitHub visual system.
 <p align="center">
   <picture>
@@ -6,7 +6,7 @@ Hi, I'm **xhinzu**. This README is tuned for **get hired** with a GitHub visual 
     <img src="https://www.gitskins.com/api/section/hero?username=xhinzu&theme=github-dark" alt="xhinzu hero section" />
   </picture>
 </p>
-## About Me
+
 > Editing this section in the inspector.
 Shapes the short profile story and positioning.
 <p align="center">
@@ -15,7 +15,7 @@ Shapes the short profile story and positioning.
     <img src="https://www.gitskins.com/api/section/about?username=xhinzu&theme=github-dark" alt="xhinzu about section" />
   </picture>
 </p>
-## Skills
+
 Selected stack and skill badges will be generated from the GitHub profile and README strategy.
 <p align="center">
   <picture>
@@ -23,7 +23,7 @@ Selected stack and skill badges will be generated from the GitHub profile and RE
     <img src="https://www.gitskins.com/api/section/stack?username=xhinzu&theme=github-dark" alt="xhinzu stack section" />
   </picture>
 </p>
-## GitHub Stats
+
 GitSkins stat widgets will use the **GitHub** theme.
 <p align="center">
   <picture>
@@ -31,7 +31,7 @@ GitSkins stat widgets will use the **GitHub** theme.
     <img src="https://www.gitskins.com/api/section/stats?username=xhinzu&theme=github-dark" alt="xhinzu stats section" />
   </picture>
 </p>
-## Projects
+
 Highlights repositories as proof of work.
 <p align="center">
   <picture>
